@@ -4,7 +4,7 @@ Ordered Arrays - Linear Search
 Algorithm: page 25
 Time complexity: O(n) 
 
-The linear search algorithm only works with ordered/sorted arrays.
+The linear search algorithm can work ordered and unordered arrays.
 """
 
 
