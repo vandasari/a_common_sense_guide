@@ -12,9 +12,6 @@ def linear_search_v1(arr, search_value):
     for i in range(len(arr)):
         if arr[i] == search_value:
             return i
-        elif arr[i] > search_value:
-            break
-
     return None
 
 
@@ -22,9 +19,6 @@ def linear_search(array, search_value):
     for index, element in enumerate(array):
         if element == search_value:
             return index
-        elif element > search_value:
-            break
-
     return None
 
 
