@@ -1,10 +1,10 @@
 """
-Ordered Arrays - Binary Search
+Binary Search
 
 Algorithm: page 29--30
 Time complexity: O(log(n)) 
 
-The binary search algorithm only works with ordered/sorted arrays.
+The binary search algorithm only works for ordered/sorted arrays.
 """
 
 
